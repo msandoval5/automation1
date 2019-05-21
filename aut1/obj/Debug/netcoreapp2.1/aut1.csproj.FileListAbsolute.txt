@@ -1,0 +1,11 @@
+/Users/mariana.sandoval/Projects/aut1/aut1/obj/Debug/netcoreapp2.1/aut1.csprojAssemblyReference.cache
+/Users/mariana.sandoval/Projects/aut1/aut1/obj/Debug/netcoreapp2.1/aut1.csproj.CoreCompileInputs.cache
+/Users/mariana.sandoval/Projects/aut1/aut1/obj/Debug/netcoreapp2.1/aut1.AssemblyInfoInputs.cache
+/Users/mariana.sandoval/Projects/aut1/aut1/obj/Debug/netcoreapp2.1/aut1.AssemblyInfo.cs
+/Users/mariana.sandoval/Projects/aut1/aut1/bin/Debug/netcoreapp2.1/aut1.deps.json
+/Users/mariana.sandoval/Projects/aut1/aut1/bin/Debug/netcoreapp2.1/aut1.runtimeconfig.json
+/Users/mariana.sandoval/Projects/aut1/aut1/bin/Debug/netcoreapp2.1/aut1.runtimeconfig.dev.json
+/Users/mariana.sandoval/Projects/aut1/aut1/bin/Debug/netcoreapp2.1/aut1.dll
+/Users/mariana.sandoval/Projects/aut1/aut1/bin/Debug/netcoreapp2.1/aut1.pdb
+/Users/mariana.sandoval/Projects/aut1/aut1/obj/Debug/netcoreapp2.1/aut1.dll
+/Users/mariana.sandoval/Projects/aut1/aut1/obj/Debug/netcoreapp2.1/aut1.pdb
